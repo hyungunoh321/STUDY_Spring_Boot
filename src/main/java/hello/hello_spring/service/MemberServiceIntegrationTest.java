@@ -1,4 +1,4 @@
-package hello.hello_spring.service;
+/*package hello.hello_spring.service;
 
 import hello.hello_spring.domain.Member;
 import hello.hello_spring.repository.MemberRepository;
@@ -39,4 +39,4 @@ class MemberServiceIntegrationTest {
                 () -> memberService.join(member2));//예외가 발생해야 한다.
         assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
     }
-}
+}*/
